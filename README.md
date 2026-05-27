@@ -89,6 +89,6 @@ No, the bot is safe. Some antiviruses may flag it as "hacktool" because it autom
 <summary><b>Does this work on Mac / Linux?</b></summary>
 No, Windows 10/11 only.
 </details>
----
+
 
 
