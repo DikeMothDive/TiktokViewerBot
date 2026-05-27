@@ -31,3 +31,14 @@ A **new bot** designed to help you accomplish your tasks and avoid shadow bans o
 7. Click Start and wait for the process to complete
 8. Check your video — views will appear within 5–30 minutes
 
+### 🛡️ System Requirements
+- Windows 10 or Windows 11 (64-bit)
+- Stable internet connection
+- .NET Framework 6.0 or higher
+- 2GB RAM minimum
+- 200MB free disk space
+> ⚠️ **Optional but recommended:** Proxies or VPN to avoid rate limits
+
+### ⚠️ Warning
+> Using automation tools violates TikTok's Terms of Service. This bot is for **educational purposes only**. You risk account suspension, shadow banning, or permanent ban. Use at your own risk. The author is not responsible for any consequences.
+
