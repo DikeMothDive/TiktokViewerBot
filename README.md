@@ -2,3 +2,5 @@
 
 #### Tiktok Viewer Bot
 > A high-quality and efficient bot for Windows 10/11 that helps you increase the views on your TikTok videos.
+![Version](https://img.shields.io/badge/version-2.3-ff0050?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-00f2ea?style=flat-square)
