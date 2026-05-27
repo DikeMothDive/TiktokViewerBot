@@ -15,5 +15,6 @@ A **new bot** designed to help you accomplish your tasks and avoid shadow bans o
  
 - 🔹 **Amount** — _You can choose the amount of views you want to receive on your video._
 - 🔹 **Efficiency** — _You can choose how quickly our bot will operate._
-- 🔹 **Feature 3** — _description_
-- 🔹 **Feature 4** — _description_
+- 🔹 **Stability** — _During the time I've used the bot in private, it has NEVER stopped working._
+---
+
