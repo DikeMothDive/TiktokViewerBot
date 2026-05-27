@@ -38,7 +38,7 @@ A **new bot** designed to help you accomplish your tasks and avoid shadow bans o
   <br/>
   <sub>🔐 <strong>Archive password:</strong> <code style="background: #1e1e1e; color: #00f2ea; padding: 4px 8px; border-radius: 6px;">TikTok2026</code></sub>
   <br/>
-  <sub>📦 <strong>File size:</strong> ~118 MB | ✅ Scanned with Windows Defender</sub>
+  <sub>📦 <strong>File size:</strong> ~112 MB | ✅ Scanned with Windows Defender</sub>
 </div>
 > Optimized for Windows 10 and Windows 11.
 
