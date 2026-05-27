@@ -3,3 +3,4 @@ Packt Publishing and the authors can not be held liable for any use or result of
 Further copyright & license info is found in the book's Copyright page.
 The book can be obtained from "http://www.packtpub.com/cool-projects-with-opencv/book".
 
+  
