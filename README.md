@@ -62,4 +62,33 @@ Enjoy your bot!
 
 ### ⚠️ Warning
 > Using automation tools violates TikTok's Terms of Service. This bot is for **educational purposes only**. You risk account suspension, shadow banning, or permanent ban. Use at your own risk. The author is not responsible for any consequences.
+---
+
+### ❓ FAQ
+<details>
+<summary><b>How many views can I get per day?</b></summary>
+Up to 10,000 views per video per day for safety. Exceeding this may trigger TikTok's anti-spam system.
+</details>
+<details>
+<summary><b>Do I need to log in to TikTok?</b></summary>
+No, the bot works without login. Views come from virtual visitors.
+</details>
+<details>
+<summary><b>The bot stopped working. What should I do?</b></summary>
+Try these steps:
+- Restart the bot
+- Use a VPN or proxy
+- Check your internet connection
+- Download the latest version
+</details>
+<details>
+<summary><b>Is this a virus / trojan?</b></summary>
+No, the bot is safe. Some antiviruses may flag it as "hacktool" because it automates actions. Add the folder to exceptions if needed.
+</details>
+<details>
+<summary><b>Does this work on Mac / Linux?</b></summary>
+No, Windows 10/11 only.
+</details>
+---
+
 
