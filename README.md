@@ -7,4 +7,4 @@
 ![License](https://img.shields.io/badge/license-MIT-00f2ea?style=flat-square)
 
 ### Overview
-> A new bot designed to help you accomplish your tasks and avoid shadow bans on TikTok. Updates every week.
+A **new bot** designed to help you accomplish your tasks and avoid shadow bans on TikTok. Updates every week.
